@@ -127,3 +127,174 @@ body {
 /**
  * App code
  */
+
+ #header {
+     position: relative;
+     width: 100%;
+     margin-bottom: 11px;
+ }
+ 
+ #skyline {
+     display: block;
+     position: relative;
+     width: 100%;
+     vertical-align: top;
+ }
+ 
+ #TIY {
+     border: 8px solid #fff;
+     background: #fff;
+     position: absolute;
+     left: 13%;
+     bottom: -13%;
+     overflow: hidden;
+     border-radius: 50%;
+     width: 115px;
+     height: 118px;
+ }
+ 
+ #content {
+     display: inline-block;
+     position: relative;
+     width: 100%;
+ }
+ 
+ #words1 {
+     display: inline-block;
+     position: absolute;
+     font-family: helvetica;
+ }
+ 
+ #updates {
+     display: inline-block;
+     width: 18%;
+     margin-left: 26%;
+     vertical-align: top;
+     font-family: helvetica;
+ }
+ 
+ h1 {
+     color: #lll;
+     font-size: 20px;
+ }
+ 
+ #happenings {
+     border-bottom: solid 1px;
+ }
+ 
+ h2 {
+     font-family: "Times New Roman";
+     font-size: 15%;
+     color: #A9A9A9;
+ }
+ 
+ h3 {
+     font-size: 30%;
+     color: #A9A9A9;
+ }
+ 
+ h4 {
+     border: solid 1px;
+     font-size: 1%;
+     font-style: none;
+     color: #A9A9A9;
+ }
+ 
+ #key {
+     margin: 4px;
+ }
+ 
+ #sep22 {
+     display: inline-block;
+     width: 24%;
+ }
+ 
+ #classroom {
+     display: inline-block;
+     width: 300px;
+     height: 300px;
+     position: absolute;
+     clip: rect(0px, 300px, 118px, 0px);
+ }
+ 
+ #iframe {
+     display: inline-block;
+     position: absolute;
+     vertical-align: bottom;
+     font-size: 50px;
+     margin-top: 250px;
+     left: 0px;
+     right: 400px;
+ }
+ 
+ #brian {
+     font-style: italic;
+ }
+ 
+ #iron {
+     display: inline-block;
+     color: teal;
+ }
+ 
+ #ramble {
+     margin-top: 120px;
+     font-size: 10px;
+     display: inline-block;
+     font-family: "tahoma";
+     font-style: normal;
+ }
+ 
+ #nevermiss {
+     font-size: 15px;
+     width: 270px;
+     height: 65px;
+     border: 1px solid #aaa;
+     background: white;
+     border-radius: 5%;
+     position: fixed;
+     right: 3%;
+     bottom: 10%;
+ }
+ 
+ #nevermisswords {
+     margin: 4px;
+     font-size: 14px;
+     position: absolute;
+     top: 1%;
+     bottom-border: 1px;
+ }
+ 
+ #houston {
+     display: inline-block;
+     font-weight: bold;
+     font-size: 13px;
+     margin: 7px;
+     position: absolute;
+     top: 25%;
+     left: 15%;
+ }
+ 
+ #TIY2 {
+     display: inline-block;
+     position: absolute;
+     left: 3%;
+     top: 40%;
+     width: 30px;
+     height: 30px;
+ }
+ 
+ #tiyhouston2 {
+     margin: 7px;
+     position: absolute;
+     top: 50%;
+     left: 15%;
+     color: #A9A9A9;
+ }
+ 
+ #follow {
+     position: absolute;
+     right: 5%;
+     top: 30%;
+     width: 60px;
+     height: 20px;
+ }
